@@ -1,4 +1,4 @@
-TASK-5: Part B
+TASK 5: Part-B
 ## Stay Safe Online – Prevention Checklist
 
 1. Never scan unknown QR codes to receive money — QR codes are mostly used to pay, not receive.  
